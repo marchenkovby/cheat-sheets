@@ -65,7 +65,7 @@
 
 ## Игнорирование файлов и папок Git-ом
 
-`.gitignore`
+.gitignore
 ```
 файл error.txt
 папка /logs
